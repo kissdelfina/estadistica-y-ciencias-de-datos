@@ -98,10 +98,6 @@ Las simulaciones utilizan distintos tamaños muestrales y cantidades de réplica
 
 El informe completo, con el desarrollo matemático, las tablas y los gráficos obtenidos, está disponible en [`TP_IECD.pdf`](./TP_IECD.pdf).
 
-## Autora
-
-**Delfina Kiss**
-
 ## Licencia
 
 Este repositorio se publica con fines académicos y educativos.
